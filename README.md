@@ -1,16 +1,36 @@
-### Hi there 👋
+![](/home/carlos/Documents/ReadMe/readme_2.png)
 
-<!--
-**CarlosSMA/CarlosSMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! :wave:
 
-Here are some ideas to get you started:
+My name is Carlos, and I think that learning and overcoming mistakes are the best things that life has ever granted to us.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Info
+
+:school: Currently studying at **Escola Técnica Estadual Porto Digital**
+
+:book: Focusing at:
+
+- C++
+- Linux & Shell Script
+- Python
+- Logic
+
+:timer_clock: Plan to study:
+
+- DevOps
+- Linux SysAdmin
+- Cloud computing
+
+---
+
+### Contact info
+
+:e-mail: souza.alvarez03@gmail.com
+
+:e-mail: carloseduardosmalv@gmail.com
+
+Linkedin: [Carlos Alvarez](https://linkedin.com/in/carlos-souza-alvarez)
+
+Discord: Carlos Alvarez#8064 (Feel free to have a chat with me :) )
