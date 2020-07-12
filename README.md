@@ -1,4 +1,6 @@
-![](https://imgur.com/Lxifo4a)
+### Hi there! :wave:
+
+![Imgur](https://i.imgur.com/Lxifo4a.png)
 
 My name is Carlos, and I think that learning and overcoming mistakes are the best things that life has ever granted to us.
 
@@ -6,7 +8,7 @@ My name is Carlos, and I think that learning and overcoming mistakes are the bes
 
 ### Info
 
-:school: Currently studying at **Escola Técnica Estadual Porto Digital**
+:school: Currently studying at **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
 
 :book: Focusing at:
 
