@@ -31,6 +31,6 @@ My name is Carlos, and I think that learning and overcoming mistakes are the bes
 
 :e-mail: carloseduardosmalv@gmail.com
 
-Linkedin: [Carlos Alvarez](https://linkedin.com/in/carlos-souza-alvarez)
+Linkedin: <a href="https://linkedin.com/in/carlos-souza-alvarez" target="_blank">Carlos Alvarez</a>
 
 Discord: Carlos Alvarez#8064 (Feel free to have a chat with me :) )
