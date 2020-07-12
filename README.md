@@ -1,6 +1,4 @@
-![](/home/carlos/Documents/ReadMe/readme_2.png)
-
-### Hi there! :wave:
+![](https://imgur.com/Lxifo4a)
 
 My name is Carlos, and I think that learning and overcoming mistakes are the best things that life has ever granted to us.
 
