@@ -12,14 +12,14 @@ My name is Carlos, and I'm a brazilian student. I am very passionate about compu
 
 :school: Currently studying at **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
 
-:book: Focusing at:
+:book: Focusing at
 
 - C++
 - Linux & Shell Script
 - Python
 - Logic
 
-:timer_clock: Plan to study:
+:timer_clock: Plan to study
 
 - DevOps
 - Git
@@ -33,7 +33,7 @@ My name is Carlos, and I'm a brazilian student. I am very passionate about compu
 
 :japan: Japanese
 
-- _Still learning hiragana syllabes XD_ 
+- _Still learning hiragana syllabes_
 
 ---
 ### How I cooperate in a team :handshake:
