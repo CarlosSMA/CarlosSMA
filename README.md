@@ -28,7 +28,7 @@ My name is Carlos, and I'm a brazilian student. I am very passionate about compu
 
 :us: English CEF
 
-- Grammar & Vocabulary: **A2**
+- Grammar & Vocabulary: **B1**
 - Listening: **C2**
 
 :japan: Japanese
