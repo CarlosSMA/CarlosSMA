@@ -48,6 +48,6 @@ I like to know about the project's context, and discuss it with my teammates, 'c
 
 :e-mail: carloseduardosmalv@gmail.com
 
-Linkedin: [Carlos Alvarez](https://linkedin.com/in/carlos-souza-alvarez)
+Linkedin: [Carlos Alvarez](https://linkedin.com/in/carlos-eduardo-alvarez)
 
 Discord: Carlos Alvarez#8064 (Feel free to have a chat with me :) )
