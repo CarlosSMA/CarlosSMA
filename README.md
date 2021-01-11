@@ -1,3 +1,6 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosSMA)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Konnichiwa! :wave:
 
 ![Imgur](https://i.imgur.com/Lxifo4a.png)
