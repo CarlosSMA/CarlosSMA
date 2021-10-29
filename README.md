@@ -19,10 +19,9 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 
 ### :earth_americas:Languages
 
-| :us:English (CEFR)           | :brazil:Portuguese               | :de:German        |
-| ---------------------------- | -------------------------------- | ----------------- |
-| Grammar & Vocabulary: **B2** | Grammar & Vocabulary: **Native** | **Plan to study** |
-| Listening: **C2**            | Listening: **Native**            | **Plan to study** |
+|                 :us: English (CEFR)                 | :brazil: Portuguese |
+| :-------------------------------------------------: | :-----------------: |
+| **C2** ([EFSET](https://www.efset.org/cert/vK1f6v)) |     **Native**      |
 
 ### :chart_with_upwards_trend:Development stats
 
