@@ -1,55 +1,39 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosSMA&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Konnichiwa! :wave:
+## What's up! :wave:
 
 ![Imgur](https://i.imgur.com/Lxifo4a.png)
 
-My name is Carlos, and I'm a brazilian student. I am very passionate about computers in general, from hardware to software. I like to watch youtube videos about games, thriller histories and documentaries.
+My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself a Back-End developer + DevOps enthusiast; I mainly code in Python, but I'm also studying how to integrate Rust and Docker in my projects.
 
->Learning and overcoming mistakes are the best things that life has ever granted to us.
+## :blue_book:Info
 
----
+:school: Studying at **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
 
-### Info :blue_book:​
+### :robot:Technical stuff
 
-:school: Currently studying at **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
+| :book:Studying | :timer_clock:Plan to study |
+| :------------: | :------------------------: |
+|     Docker     |           Golang           |
+|   Kubernetes   |      NodeJS (Express)      |
+|     Python     |    Systems architecture    |
+|      Rust      |           Cloud            |
 
-:book: Focusing at
+### :earth_americas:Languages
 
-- C++
-- Linux & Shell Script
-- Python
-- Logic
+| :us:English (CEFR)           | :brazil:Portuguese               | :de:German        |
+| ---------------------------- | -------------------------------- | ----------------- |
+| Grammar & Vocabulary: **B2** | Grammar & Vocabulary: **Native** | **Plan to study** |
+| Listening: **C2**            | Listening: **Native**            | **Plan to study** |
 
-:timer_clock: Plan to study
+### :chart_with_upwards_trend:Development stats
 
-- DevOps
-- Git
-- Linux SysAdmin
-- Cloud computing
-
-:us: English CEF
-
-- Grammar & Vocabulary: **B1**
-- Listening: **C2**
-
-:japan: Japanese
-
-- _Still learning hiragana syllabes_
-
----
-### How I cooperate in a team :handshake:
-
-I like to know about the project's context, and discuss it with my teammates, 'cuz we can search for the problem's root and solve it ASAP! For me, it's extremely important to communicate and share our ideas in a team. All opinions matter.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosSMA&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### Contact me @ the internet :globe_with_meridians:​
+## Contact me
 
 :e-mail: souza.alvarez03@gmail.com
-
-:e-mail: carloseduardosmalv@gmail.com
 
 Linkedin: [Carlos Alvarez](https://linkedin.com/in/carlos-eduardo-alvarez)
 
