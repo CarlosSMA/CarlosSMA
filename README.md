@@ -1,4 +1,4 @@
-<h1 allign="center">What's up! :wave:</h1>
+# What's up! :wave:
 
 ![Imgur](https://i.imgur.com/Lxifo4a.png)
 
