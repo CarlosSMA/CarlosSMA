@@ -10,14 +10,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
-
 My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself a Back-End developer + DevOps enthusiast; I mainly code in Python, but I'm also studying how to integrate Rust and Docker in my projects.
 
 <details>
-<summary>Info</summary>
-
-
-## :blue_book:Info
+<summary>📘 Info</summary>
 
 :school: Studying at **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
 
