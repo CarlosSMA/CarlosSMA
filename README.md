@@ -8,7 +8,7 @@
 	<a href="mailto:souza.alvarez03@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<a href="https://linkedin.com/in/carlos-eduardo-alvarez" target="_blank">
+	<a href="https://linkedin.com/in/carlos-eduardo-alvarez">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://t.me/CarlosSMA">
@@ -51,7 +51,6 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 		<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
 	</a>
 </p>
-
 <h3 align="center">Plan to study</h3>
 <p align="center">
 	<a href="https://webassembly.org/">
@@ -66,7 +65,7 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 	<a href="https://aws.amazon.com/">
 		<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 	</a>
-<br> <br>
+<br>
 	<a href="https://github.com/features/actions">
 		<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 	</a>
@@ -74,6 +73,7 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 	</a>
 </p>
+
 
 
 ## :earth_americas: Languages
