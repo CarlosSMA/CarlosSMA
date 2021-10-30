@@ -8,6 +8,9 @@
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/carlos-eduardo-alvarez">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://t.me/CarlosSMA">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 </p>
 My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself a Back-End developer + DevOps enthusiast; I mainly code in Python, but I'm also studying how to integrate Rust and Docker in my projects.
@@ -15,11 +18,15 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 <details>
 <summary>📘 Info</summary>
 
-<br>
+## 🎓 Education
 
-:school: Studying at **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
+- **Systems development**
 
-### :robot: Technical stuff
+  :calendar: 2019-2021
+
+  :school: **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
+
+## :robot: Technical stuff
 
 | :book:Studying | :timer_clock:Plan to study |
 | :------------: | :------------------------: |
