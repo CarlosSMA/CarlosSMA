@@ -8,7 +8,7 @@
 	<a href="mailto:souza.alvarez03@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<a href="https://linkedin.com/in/carlos-eduardo-alvarez">
+	<a href="https://linkedin.com/in/carlos-eduardo-alvarez" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://t.me/CarlosSMA">
@@ -18,6 +18,7 @@
 		<img src="https://img.shields.io/badge/DockerHub-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 	</a>
 </p>
+
 
 My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself a Back-End developer + DevOps enthusiast; I mainly code in Python, but I'm also studying how to integrate Rust and Docker in my projects.
 
