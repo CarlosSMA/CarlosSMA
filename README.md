@@ -15,9 +15,11 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 <details>
 <summary>📘 Info</summary>
 
+<br>
+
 :school: Studying at **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
 
-### :robot:Technical stuff
+### :robot: Technical stuff
 
 | :book:Studying | :timer_clock:Plan to study |
 | :------------: | :------------------------: |
@@ -26,17 +28,15 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 |     Python     |    Systems architecture    |
 |      Rust      |           Cloud            |
 
-### :earth_americas:Languages
+### :earth_americas: Languages
 
-|                 :us: English (CEFR)                 | :brazil: Portuguese |
+|                    :us: English                     | :brazil: Portuguese |
 | :-------------------------------------------------: | :-----------------: |
 | **C2** ([EFSET](https://www.efset.org/cert/vK1f6v)) |     **Native**      |
 
-### :chart_with_upwards_trend:Development stats
+### :chart_with_upwards_trend: Development stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosSMA&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-
 
 ---
