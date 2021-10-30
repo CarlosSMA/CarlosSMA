@@ -29,12 +29,24 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 
 ## :robot: Technical stuff
 
-| :book:Studying | :timer_clock:Plan to study |
-| :------------: | :------------------------: |
-|     Docker     |           Golang           |
-|   Kubernetes   |      NodeJS (Express)      |
-|     Python     |    Systems architecture    |
-|      Rust      |           Cloud            |
+<h3 align="center">Studying</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
+</p>
+<h3 align="center">Plan to study</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+</p>
+
 
 ### :earth_americas: Languages
 
