@@ -78,13 +78,10 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 
 ## :earth_americas: Languages
 
-<p align="center">
 
 |                    :us: English                     | :brazil: Portuguese |
 | :-------------------------------------------------: | :-----------------: |
 | **C2** ([EFSET](https://www.efset.org/cert/vK1f6v)) |     **Native**      |
-
-</p>
 
 
 ## :chart_with_upwards_trend: Career Plan
