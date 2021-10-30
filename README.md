@@ -20,7 +20,7 @@
 </p>
 
 
-My name is Carlos, and I'm a 17-year-old Brazilian developer. Back-End developer + DevOps enthusiast, and also mainly code in Python, but studying how to integrate Rust and Docker in projects.
+My name is Carlos, and I'm a 17-year-old Brazilian developer. Back-End developer + DevOps enthusiast, and mainly code in Python, but I'm also studying how to integrate Rust and Docker in projects.
 
 <details>
 <summary>📘 Info</summary>
