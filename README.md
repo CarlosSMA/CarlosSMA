@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 </p>
+
 My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself a Back-End developer + DevOps enthusiast; I mainly code in Python, but I'm also studying how to integrate Rust and Docker in my projects.
 
 <details>
@@ -47,3 +48,16 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. I consider myself 
 </details>
 
 ---
+
+## Inspirations for my ReadMe
+<p align="left">
+<a href="https://github.com/alexandresanlim">
+<img src="https://avatars.githubusercontent.com/u/5353685?v=4" height="80" style="border-radius: 50%">
+<img src="https://img.shields.io/badge/Alexandre%20Sanlim-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<br> <br>
+<a href="https://github.com/filiptronicek">
+<img src="https://avatars.githubusercontent.com/u/29888641?v=4" height="80" style="border-radius: 50%">
+<img src="https://img.shields.io/badge/Filip%20Tron%C3%AD%C4%8Dek-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
