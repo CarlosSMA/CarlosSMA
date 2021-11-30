@@ -47,6 +47,9 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. DevOps enthusiast 
 	<a href="https://www.python.org/">
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	</a>
+	<a href="https://golang.org/">
+		<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+	</a>
 	<a href="https://www.rust-lang.org">
 		<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
 	</a>
@@ -55,9 +58,6 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. DevOps enthusiast 
 <p align="center">
 	<a href="https://webassembly.org/">
 		<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
-	</a>
-	<a href="https://golang.org/">
-		<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 	</a>
 	<a href="https://cloud.google.com/">
 		<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
