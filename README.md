@@ -88,7 +88,7 @@ My name is Carlos, and I'm a 17-year-old Brazilian developer. DevOps enthusiast 
 
 Currently, I intend to start my professional carrer by developing my DevOps skills, both in the technical side (e.g. Cloud, Clusters) and the management side (e.g. Agile, DevOps Philosofy). 
 
-Apart from DevOps, I also have interest in QA, embbeded systems and Systems Architecture, so I'd love to learn more about those subjects as well.
+Apart from DevOps, I also have interest in QA, Embedded Systems and Systems Architecture, so I'd love to learn more about those subjects as well.
 
 ---
 
