@@ -14,6 +14,9 @@
 	<a href="https://t.me/CarlosSMA">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 	</a>
+	<a href="https://gitlab.com/CarlosSMA">
+		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+	</a>
 	<a href="https://hub.docker.com/u/carlossma">
 		<img src="https://img.shields.io/badge/DockerHub-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 	</a>
