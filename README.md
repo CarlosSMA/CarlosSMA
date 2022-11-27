@@ -5,7 +5,7 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=CarlosSMA&theme=radical&show_icons=true">
 	<br> <br>
-	<a href="mailto:carlos.alvarez03@gmail.com">
+	<a href="mailto:souza.alvarez03@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<a href="https://linkedin.com/in/carlos-eduardo-alvarez">
