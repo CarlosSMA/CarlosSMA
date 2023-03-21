@@ -27,11 +27,19 @@ My name is Carlos, and I'm a developer, mainly using Docker, Kubernetes, Python,
 
 ## 🎓 Education
 
+
+- **Information Systems**
+	
+  :school: **Universidade Federal Rural de Pernambuco (UFRPE)** (Recife ─ PE)
+
+  :calendar: 2022-
+	
+	
 - **Systems development**
+	
+  :school: **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
 
   :calendar: 2019-2021
-
-  :school: **Escola Técnica Estadual Porto Digital** (Recife ─ PE)
 
 ## :robot: Technical stuff
 
