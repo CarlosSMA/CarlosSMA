@@ -3,8 +3,6 @@
 ![](https://i.imgur.com/BsMQ5YM.png)
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=CarlosSMA&theme=radical&show_icons=true">
-	<br> <br>
 	<a href="mailto:souza.alvarez03@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
